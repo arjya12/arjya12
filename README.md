@@ -3,10 +3,6 @@
 # 💫 About Me:
 Hi, I'm a third-year computer science student at Toronto Metropolitan University (formerly Ryerson University). I'm interested in artificial intelligence and software engineering, actively looking to gain experience in these fields while focusing on building efficient solutions and meaning user experiences.
 
-## 🚀 What I'm Up To
-
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arjyachakma/) 
 
